@@ -1,0 +1,2 @@
+Ceci est un fichier de texte.
+C'est le fichier numéro 2.
